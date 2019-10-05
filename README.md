@@ -10,7 +10,6 @@ tianxiadaoshu 的个人博客
 
 ### 最新
 
-* [（测试）从顶点小说下载小说的python代码](http://www.licx.xyz/articles/2019/10/05/1570275528496.html)
 * [世界，你好！](http://www.licx.xyz/hello-solo)
 
 
