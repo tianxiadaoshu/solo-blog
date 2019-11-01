@@ -10,7 +10,6 @@ tianxiadaoshu 的个人博客
 
 ### 最新
 
-* [思绪](http://www.licx.xyz/articles/2019/10/15/1571126693358.html)
 * [我在 GitHub 上的开源项目](http://www.licx.xyz/my-github-repos)
 * [（测试）多媒体测试](http://www.licx.xyz/articles/2019/10/05/1570279879594.html)
 * [（测试）简单的spring boot的Java文件分享代码](http://www.licx.xyz/articles/2019/10/05/1570276848184.html)
